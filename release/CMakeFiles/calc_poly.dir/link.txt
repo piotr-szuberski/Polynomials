@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c11 -Wall -Wextra -O3 -DNDEBUG  -rdynamic CMakeFiles/calc_poly.dir/src/poly.c.o CMakeFiles/calc_poly.dir/src/calc_poly.c.o CMakeFiles/calc_poly.dir/src/calc_functions.c.o  -o calc_poly 

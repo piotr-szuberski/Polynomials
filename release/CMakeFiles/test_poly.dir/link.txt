@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c11 -Wall -Wextra -O3 -DNDEBUG  -rdynamic CMakeFiles/test_poly.dir/src/poly.c.o CMakeFiles/test_poly.dir/src/test_poly.c.o  -o test_poly 

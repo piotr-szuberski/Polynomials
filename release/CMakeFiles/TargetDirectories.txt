@@ -1,0 +1,4 @@
+/home/pjotrekk/Documents/nnn/release/CMakeFiles/rebuild_cache.dir
+/home/pjotrekk/Documents/nnn/release/CMakeFiles/edit_cache.dir
+/home/pjotrekk/Documents/nnn/release/CMakeFiles/test_poly.dir
+/home/pjotrekk/Documents/nnn/release/CMakeFiles/calc_poly.dir
