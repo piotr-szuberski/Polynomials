@@ -6,15 +6,15 @@ Second part: writing a calculator parsing input and producing output. The polyno
 Third part: mocking std functions with Cmocka so it is possible to write unit tests in C with assertions.
 
 Compile:
-mkdir  release
-cd  release
-cmake  ..
-make
+mkdir  release;
+cd  release;
+cmake  ..;
+make;
 make  doc
 
 Debug:
-mkdir  debug
-cd  debug
-cmake  -D CMAKE_BUILD_TYPE=Debug ..
-make
+mkdir  debug;
+cd  debug;
+cmake  -D CMAKE_BUILD_TYPE=Debug ..;
+make;
 make  doc
